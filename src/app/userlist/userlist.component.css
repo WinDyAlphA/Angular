@@ -13,7 +13,6 @@
     display: flex;
     width: 80vw;
     margin-left : 10vw;
-    margin-top : 5vh;
     justify-content: space-around;
     align-items: space-around;
 
@@ -31,3 +30,12 @@
     color: white;
 }
 
+.taboptions{
+    width: 80vw;
+    height: 7vh;
+    margin-left : 10vw;
+    margin-top : 5vh;
+    display: flex;
+    justify-content: space-between;
+
+}
